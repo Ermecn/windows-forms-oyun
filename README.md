@@ -1,6 +1,6 @@
-zip olarak indirin ve 
-Game.sln dosyasını açın ve
-kodu çalıştırın                                     
-ara sahneler esc tuşu ile atlanabilir 
+# Kullanma kılavuzu  
+1-zip olarak indirin ve ayıklayın (içerideki dosyayı zip dışına alın)  
+2-Game.sln'i çalıştırın  
+3-f5'e basın  
 
-oyunda zorlanırsanız sol attaki butona basıp karakterin hasarını arttırabilirsiniz 
+oyunda zorlanırsanız gameplay formunda sol attaki butona basıp karakterin hasarını arttırabilirsiniz 
