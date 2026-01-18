@@ -1,4 +1,4 @@
-# Kullanma kılavuzu  
+# Kurulum kılavuzu  
 1. zip dosyasını indirin
    - sağ üstteki yeşil "Code" butonuna basın
      - "Download ZIP" e basın
