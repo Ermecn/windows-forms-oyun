@@ -1,6 +1,6 @@
 # Kullanma kılavuzu  
 1. zip olarak indirin ve ayıklayın
-   - sol üstteki yeşil "Code" butonuna basın
+   - sağ üstteki yeşil "Code" butonuna basın
      - "Download ZIP" e basın
 
 2. Game.sln'i çalıştırın  
